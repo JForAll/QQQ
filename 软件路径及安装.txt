@@ -1,0 +1,7 @@
+ORACLE   账号:1305949113@qq.com   密码：Huikao123    用户名：JForAll
+
+JDK环境变量：创建 JAVA_HOME ，值为jdk文件夹目录:D:\java\jdk1.8
+                       在Path中，加入 %JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
+                      创建CLASSPATH,值为%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
+
+本地数据库： 用户名 root  密码 root
